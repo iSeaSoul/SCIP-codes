@@ -1,4 +1,8 @@
-SCIP-lisp-codes
+SCIP Codes & Reading Note
 ===============
 
-Structure and Interpretation of Computer Programs &amp; Lisp Learning
+Codes (racket) & Reading Note
+
+Structure and Interpretation of Computer Programs
+
+**iSea** @ Oct 2nd, 2014
