@@ -1,15 +1,11 @@
-*.exe
-*.in
-*.out
-*.tmp
-*.swap
-*.pdf
-*.doc
-*.docx
-*.rar
+# DrRacket Temporary files
 *.bak
 *.1
 *.2
 *.3
 *.4
 *.5
+
+# DrRacket Complied files
+*.dep
+*.zo
