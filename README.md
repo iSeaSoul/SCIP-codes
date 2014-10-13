@@ -1,4 +1,4 @@
-SCIP Codes & Reading Note
+SICP Codes & Reading Note
 ===============
 
 Codes (racket) & Reading Note
